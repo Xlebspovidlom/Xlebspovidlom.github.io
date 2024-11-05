@@ -1,0 +1,28 @@
+[2024-11-05 17:17:49] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-11-05 17:17:49] Debug: =======================================
+[2024-11-05 17:17:49] Debug: CLI: 
+[2024-11-05 17:17:49] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-11-05 17:17:49] Debug: Seeded the RNG with 1730809062.
+[2024-11-05 17:17:49] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-11-05 17:17:49] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-11-05 17:17:49] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-11-05 17:17:49] Debug: Detected encoding: ibm-5347_P100-1998
+[2024-11-05 17:17:49] Debug: Game and Save Directory:
+[2024-11-05 17:17:49] Debug: 1: [Native]  -> ib
+[2024-11-05 17:17:49] Debug: Loading game Иб - перевод LivingFLCL
+[2024-11-05 17:17:49] Debug: Game does not need RTP (FullPackageFlag=1)
+[2024-11-05 17:17:49] Debug: Analyzing RPG_RT ib/RPG_RT.exe
+[2024-11-05 17:17:49] Debug: EXEReader: EXFONT resource found (DE 0xe9e40; 0xef948; len 0x2168)
+[2024-11-05 17:17:49] Debug: ExFont loaded from RPG_RT
+[2024-11-05 17:17:49] Debug: EXEReader: VERSIONINFO resource found (DE 0xea0c0; 0xf6950; len 0x2ec)
+[2024-11-05 17:17:49] Debug: RPG_RT information: version=1.1.2.1 logos=1 i386=true easyrpg=false
+[2024-11-05 17:17:49] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-11-05 17:17:49] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-11-05 17:17:49] Debug: Cannot find: Font/Font
+[2024-11-05 17:17:49] Debug: Cannot find: Font/Font2
+[2024-11-05 17:17:49] Debug: Resolution changed to 320x240
+[2024-11-05 17:17:52] Debug: Starting new game
+[2024-11-05 17:17:52] Debug: Loaded Map Map0002.lmu
+[2024-11-05 17:17:52] Debug: Tree: Black Background
+[2024-11-05 17:18:12] Debug: Loaded Map Map0001.lmu
+[2024-11-05 17:18:12] Debug: Tree: Gallery Entrance
