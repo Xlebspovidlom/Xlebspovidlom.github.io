@@ -1,0 +1,92 @@
+[2024-11-14 08:23:58] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-11-14 08:23:58] Debug: =======================================
+[2024-11-14 08:23:58] Debug: CLI: 
+[2024-11-14 08:23:58] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-11-14 08:23:58] Debug: Seeded the RNG with 1731554631.
+[2024-11-14 08:23:58] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-11-14 08:23:58] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-11-14 08:23:58] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-11-14 08:23:58] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-11-14 08:23:58] Debug: Game and Save Directory:
+[2024-11-14 08:23:58] Debug: 1: [Native]  -> TestGame-2003
+[2024-11-14 08:23:58] Debug: Loading game RPG Maker 2003 Test suite
+[2024-11-14 08:23:58] Debug: Analyzing RPG_RT TestGame-2003/RPG_RT.exe
+[2024-11-14 08:23:58] Debug: EXEReader: BITMAP not found.
+[2024-11-14 08:23:58] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-11-14 08:23:58] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=true pic-unlock=true 2k3-commands=false
+[2024-11-14 08:23:58] Debug: Actor 1: Removing item 44 from equipment slot 2 (Not equippable by this actor)
+[2024-11-14 08:23:58] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-11-14 08:23:58] Debug: Cannot find: System/SystemC
+[2024-11-14 08:23:58] Warning: Image not found: System/SystemC
+[2024-11-14 08:23:58] Debug: Cannot find: Font/Font
+[2024-11-14 08:23:58] Debug: Cannot find: Font/Font2
+[2024-11-14 08:23:58] Debug: Resolution changed to 320x240
+[2024-11-14 08:23:58] Debug: Cannot find: Title/title1
+[2024-11-14 08:23:58] Warning: Image not found: Title/title1
+[2024-11-14 08:23:58] Debug: Game uses RTP "Official English"
+[2024-11-14 08:23:58] Debug: Cannot find: Music/Opening 1
+[2024-11-14 08:23:58] Debug: Music not found: Opening 1
+[2024-11-14 08:23:59] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:23:59] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:00] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:00] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:00] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:00] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:00] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:00] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:01] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:01] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:01] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:01] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:01] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:01] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:02] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:02] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:02] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:02] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:02] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:02] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:03] Debug: Cannot find: Sound/Decision1
+[2024-11-14 08:24:03] Debug: Sound not found: Decision1
+[2024-11-14 08:24:22] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-11-14 08:24:22] Debug: =======================================
+[2024-11-14 08:24:22] Debug: CLI: 
+[2024-11-14 08:24:22] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-11-14 08:24:22] Debug: Seeded the RNG with 1731554661.
+[2024-11-14 08:24:22] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-11-14 08:24:22] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-11-14 08:24:22] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-11-14 08:24:22] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-11-14 08:24:22] Debug: Game and Save Directory:
+[2024-11-14 08:24:22] Debug: 1: [Native] 
+[2024-11-14 08:24:22] Debug: Loading game RPG Maker 2003 Test suite
+[2024-11-14 08:24:22] Debug: Analyzing RPG_RT RPG_RT.exe
+[2024-11-14 08:24:22] Debug: EXEReader: BITMAP not found.
+[2024-11-14 08:24:22] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-11-14 08:24:22] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=true pic-unlock=true 2k3-commands=false
+[2024-11-14 08:24:22] Debug: Actor 1: Removing item 44 from equipment slot 2 (Not equippable by this actor)
+[2024-11-14 08:24:22] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-11-14 08:24:22] Debug: Cannot find: System/SystemC
+[2024-11-14 08:24:22] Warning: Image not found: System/SystemC
+[2024-11-14 08:24:22] Debug: Cannot find: Font/Font
+[2024-11-14 08:24:22] Debug: Cannot find: Font/Font2
+[2024-11-14 08:24:23] Debug: Resolution changed to 320x240
+[2024-11-14 08:24:23] Debug: Cannot find: Title/title1
+[2024-11-14 08:24:23] Warning: Image not found: Title/title1
+[2024-11-14 08:24:23] Debug: Game uses RTP "Official English"
+[2024-11-14 08:24:23] Debug: Cannot find: Music/Opening 1
+[2024-11-14 08:24:23] Debug: Music not found: Opening 1
+[2024-11-14 08:24:25] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:25] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:26] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:26] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:26] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:26] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:27] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:27] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:27] Debug: Cannot find: Sound/Cursor1
+[2024-11-14 08:24:27] Debug: Sound not found: Cursor1
+[2024-11-14 08:24:27] Debug: Cannot find: Sound/Decision1
+[2024-11-14 08:24:27] Debug: Sound not found: Decision1
+[2024-11-14 08:24:28] Debug: Actor 1: Removing item 44 from equipment slot 2 (Not equippable by this actor)
+[2024-11-14 08:24:28] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
